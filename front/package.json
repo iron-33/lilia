@@ -10,7 +10,7 @@
     "audit": "0.0.6",
     "core-js": "^3.4.4",
     "jquery": "^3.4.1",
-    "jquery-ui": "^1.12.1",
+    "jquery-ui": "^1.13.0",
     "materialize-css": "^1.0.0-rc.2",
     "postcss-loader": "^3.0.0",
     "vue": "^2.6.10",
